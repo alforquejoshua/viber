@@ -1,0 +1,25 @@
+{
+  "name": "viber",
+  "version": "1.0.0",
+  "description": "test_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "ngrok": "^4.3.1",
+    "now": "^19.1.2",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2",
+    "viber-bot": "^1.0.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
